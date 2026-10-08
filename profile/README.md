@@ -1,4 +1,4 @@
-### Amtek s.p.a.
+### Additive Manufacturing Technologies s.p.a.
 Somos de Santiago de Chile, nos dedicamos a la fabricación y diseño. Aquí publicamos documentación y assets de nuestros productos.
 
 ### Contacto:
